@@ -1,6 +1,6 @@
 const spaceCanvas=document.getElementById("spaceCanvas");
 spaceCanvas.width=window.innerWidth*0.6;
-
+// test git commit
 const networkCanvas=document.getElementById("networkCanvas");
 networkCanvas.width=window.innerWidth*0.5;
 
